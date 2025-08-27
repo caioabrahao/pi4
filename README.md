@@ -1,9 +1,3 @@
-Claro\! Aqui está o arquivo `README.md` completo, pronto para ser copiado e colado diretamente no seu repositório do GitHub.
-
-Basta substituir os textos entre colchetes `[ ]` pelas informações do seu projeto.
-
------
-
 # 🐾 PetCare Pro: Solução Completa para Petshops Veterinários
 
 ## 📖 Sobre o Projeto
